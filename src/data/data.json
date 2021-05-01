@@ -1,0 +1,50 @@
+[
+    {
+        "ticketId": "608dab",
+        "subject": "Hola, mi item esta roto",
+        "date": "2019-03-01 01:30:00Z",
+        "from": "Joaquin Perez",
+        "status": "SOLVED",
+        "body": "Mi producto llego roto, no funciona como deberia hacer"
+    },
+    {
+        "ticketId": "548be15",
+        "subject": "Cuando llega mi reembolso",
+        "date": "2021-02-01 01:30:00Z",
+        "from": "Karina Hogan",
+        "status": "NEW",
+        "body": "Mi producto no llego cuando deberia llegar ?"
+    },
+    {
+        "ticketId": "34147b",
+        "subject": "Hola, problema con el item",
+        "date": "2020-09-03 01:30:00Z",
+        "from": "Cherry Shepard",
+        "status": "NEW",
+        "body": "Llego en muy mal estado, como deberia hacer para"
+    },
+    {
+        "ticketId": "7b7dad",
+        "subject": "Donde puedo quejarme para poder recibir un reembolso",
+        "date": "2020-03-01 01:30:00Z",
+        "from": "Carson Duke",
+        "status": "NEW",
+        "body": "Files: Screen Shot 2021-03-23 at 0 "
+    },
+    {
+        "ticketId": "ck3dod3",
+        "subject": "Hola, gracias por todo",
+        "date": "2018-03-09 01:30:00Z",
+        "from": "Sonja Chan",
+        "status": "SOLVED",
+        "body": "Mi producto no llego cuando deberia llegar ?"
+    },
+    {
+        "ticketId": "bf66e1a",
+        "subject": "Hola, que tal ?",
+        "date": "2020-03-01 01:30:00Z",
+        "from": "Avis Glenn",
+        "status": "NEW",
+        "body": "Mi producto llego roto, no funciona como deberia hacer"
+    }
+]
